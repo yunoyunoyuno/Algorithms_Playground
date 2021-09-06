@@ -1,0 +1,153 @@
+2) 1470299
+
+BT:
+  root
+  Node : left,right,element
+  isleaf()
+
+Stack:
+   - size
+   - isEmpty
+   - push
+   - pop
+   - peek
+
+List:
+   - add(i,e)
+   - add(e)
+   - remove(i)
+   - remove(obj)
+   - get(i)
+   - set(i,e)
+   - contains(e)
+   - index_of(obj)
+   - assert_in_range(i,max);
+   - set(i,e)
+   - equals(arr_list)
+
+
+SinglyLinkedList:
+    class LinkedNode: -e -n;
+    -assert_not_none();
+    -assert_in_range(i,m);
+    -node_at(i) #Key Method
+    -size; -header;
+    -size();
+    -isEmpty()
+    -contains(e)
+    -add(e)
+    -remove(e)
+    -removeAfter(LinkedNode p)
+    -get(i)
+    -set(i,e)
+    -add(i,e)
+    -remove(i)
+   
+
+DBLinkedListWH:
+   - LinkedNode : -e -p -n
+   - size - header
+   - size()
+   - isEmpty()
+   - contains(e)
+   = nodeOf(e)
+   - add(i,e)
+   - append(e)
+   = addBefore(node,e)
+   - remove(e)
+   - pop(i)
+   = remove_node(node)
+   - get(i)
+   - set(i,e)
+   = assert_not_none(e)
+   = assert_in_range(i,m)
+   = nodeAt(i)
+
+
+
+
+SparseVector:
+   ✅-Element -index,value
+   
+  
+   ✅-constructor(m): data[0],size,length = m;
+
+   ✅=ensure_capacity(m)
+   ✅=assert_is_num(n)
+     =assert_equal_length(v);
+   ✅=assert_in_range(i,m)	
+   ✅-length()
+   ✅-get(i)
+   ✅-set(i,v)
+   ✅-add(i,e)
+   - append(i,v)
+   - add(v2)
+   - dot(v2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
